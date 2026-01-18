@@ -1,0 +1,6 @@
+a= input("what is ypur first number ")
+b = input("what is your second number ")
+print("the sum of both number is ", a + b)
+print("the sum of both number is ", int(a) + int(b))
+print("the sum of both number is ", float(a) + float(b))
+print("the sum of both number is ", int(a) + float(b))
